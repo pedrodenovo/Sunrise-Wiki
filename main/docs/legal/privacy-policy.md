@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+titleTemplate: Sunrise Wiki
+---
 # Privacy Policy
 > Last updated: March 21, 2024
 
