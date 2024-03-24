@@ -1,7 +1,3 @@
----
-title: Terms and Conditions
-titleTemplate: Sunrise Wiki
----
 # Terms and Conditions
 These terms and conditions outline the rules and regulations for the use of the Sunrise Studios website, located at https://wiki.sunrise-studio.site/.
 
